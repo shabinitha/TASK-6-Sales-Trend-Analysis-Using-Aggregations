@@ -1,0 +1,201 @@
+OrderID,OrderDate,CustomerID,CustomerName,Category,Product,Quantity,UnitPrice,Discount,SalesAmount,City,Country,PaymentMethod,DeliveryStatus
+1,2025-07-22,1015,Cheryl Chapman,Electronics,Smartphone,1,421.25,0.04,404.4,New Carolmouth,Colombia,Cash on Delivery,Cancelled
+2,2025-02-19,1027,Carrie Perez,Electronics,Laptop,4,401.46,0.3,1124.09,Josephside,Eritrea,Debit Card,Pending
+3,2024-09-19,1078,Meghan Wyatt,Home & Kitchen,Microwave,5,114.04,0.04,547.39,West Joshuashire,China,Credit Card,Returned
+4,2024-10-20,1043,Joel Barron,Home & Kitchen,Microwave,2,340.06,0.2,544.1,Branchbury,Norfolk Island,PayPal,Returned
+5,2025-07-11,1032,Angela Schmidt,Beauty,Shampoo,3,147.12,0.18,361.92,South Stephanie,Slovakia (Slovak Republic),PayPal,Delivered
+6,2024-08-09,1061,Michael Rodriguez,Books,Cookbook,4,47.32,0.26,140.07,North Moniqueton,Northern Mariana Islands,PayPal,Cancelled
+7,2024-10-14,1091,Dylan Ayers,Books,Biography,2,273.56,0.15,465.05,South Donnastad,South Georgia and the South Sandwich Islands,Credit Card,Delivered
+8,2025-03-20,1099,Dennis Ross,Home & Kitchen,Cookware Set,5,175.58,0.03,851.56,Scottstad,Oman,Credit Card,Delivered
+9,2024-09-04,1056,Amanda Hebert,Books,Biography,5,142.41,0.01,704.93,West Edwardborough,Syrian Arab Republic,Cash on Delivery,Delivered
+10,2025-07-01,1067,Travis Higgins PhD,Books,History Book,1,188.1,0.3,131.67,Matthewmouth,Brazil,Cash on Delivery,Returned
+11,2025-07-23,1095,Stephen Lowery,Sports,Football,2,232.98,0.28,335.49,Port Christine,Israel,Credit Card,Pending
+12,2024-09-03,1015,Gregory Owens,Books,Fiction Novel,1,381.68,0.02,374.05,Ericland,Senegal,Debit Card,Returned
+13,2024-09-30,1054,Kevin Taylor,Home & Kitchen,Toaster,4,332.36,0.19,1076.85,Alyssaview,French Guiana,Credit Card,Delivered
+14,2025-04-06,1017,Lorraine Snow,Books,Cookbook,2,114.73,0.27,167.51,Manningshire,Burundi,PayPal,Delivered
+15,2025-03-29,1022,Erica Russell,Books,Science Book,1,431.21,0.16,362.22,North Kristin,Cuba,PayPal,Delivered
+16,2025-02-03,1082,Donald Dickson,Beauty,Shampoo,5,435.68,0.05,2069.48,Lake Stephenberg,Bahrain,Cash on Delivery,Pending
+17,2024-08-25,1021,Jeffrey Rice,Sports,Tennis Racket,5,394.32,0.3,1380.12,Monicaport,San Marino,Credit Card,Cancelled
+18,2025-04-09,1035,James Morrison,Electronics,Laptop,1,294.37,0.16,247.27,Bartonport,France,Debit Card,Pending
+19,2024-12-04,1005,Matthew Hayes,Books,History Book,5,307.98,0.12,1355.11,Barnettstad,Montenegro,PayPal,Returned
+20,2025-05-23,1088,Matthew Cox,Clothing,Shoes,2,260.25,0.03,504.88,Coxside,Azerbaijan,Cash on Delivery,Cancelled
+21,2024-10-28,1015,Sarah Boyd,Electronics,Camera,2,493.4,0.21,779.57,South Amy,Ukraine,Debit Card,Returned
+22,2024-10-01,1072,David Nelson,Clothing,Dress,1,311.22,0.07,289.43,Jenniferton,Bosnia and Herzegovina,PayPal,Delivered
+23,2024-12-19,1041,Daniel Thomas,Home & Kitchen,Mixer,3,450.15,0.0,1350.45,Thomasview,Norfolk Island,Cash on Delivery,Pending
+24,2024-10-08,1100,Timothy Chavez,Beauty,Shampoo,3,413.1,0.2,991.44,Westmouth,Honduras,Cash on Delivery,Pending
+25,2024-12-19,1071,Benjamin Berry,Clothing,T-Shirt,1,312.16,0.2,249.73,New Emily,Cook Islands,PayPal,Pending
+26,2025-01-06,1073,Nicole Wells,Beauty,Lipstick,3,291.35,0.29,620.58,Williamsborough,Colombia,Cash on Delivery,Returned
+27,2024-12-23,1088,Kaitlyn Gillespie,Home & Kitchen,Microwave,2,482.67,0.28,695.04,Leslieside,Jersey,Debit Card,Delivered
+28,2025-04-21,1094,Anthony Castillo,Books,Fiction Novel,1,453.28,0.22,353.56,Suehaven,Montenegro,Cash on Delivery,Returned
+29,2024-12-20,1054,Amanda Soto,Home & Kitchen,Vacuum Cleaner,2,354.32,0.06,666.12,North Jasmineland,Bolivia,Debit Card,Pending
+30,2025-06-13,1052,Daniel Mcgrath,Sports,Cricket Bat,4,236.67,0.09,861.48,Brendamouth,Mongolia,Debit Card,Delivered
+31,2025-05-12,1013,Michele Phillips,Home & Kitchen,Cookware Set,5,433.05,0.15,1840.46,North Justinchester,Costa Rica,Debit Card,Returned
+32,2024-08-09,1047,Gerald Wolfe,Electronics,Laptop,3,55.2,0.17,137.45,Michelletown,Portugal,PayPal,Cancelled
+33,2024-10-16,1081,Michael Mccann,Beauty,Shampoo,3,198.44,0.23,458.4,Lake Cynthia,Cyprus,PayPal,Pending
+34,2025-07-03,1025,Laura Pierce,Sports,Football,1,208.18,0.3,145.73,Nguyenton,Mayotte,Cash on Delivery,Returned
+35,2024-09-04,1052,Gina Gutierrez,Home & Kitchen,Microwave,5,406.54,0.24,1544.85,South Adrianaport,Marshall Islands,Credit Card,Pending
+36,2024-12-28,1024,David Wallace,Electronics,Smartphone,4,208.07,0.19,674.15,Heidiview,Brazil,Credit Card,Pending
+37,2024-12-26,1011,Craig Mathis,Books,Biography,2,123.15,0.04,236.45,Christianhaven,Guadeloupe,Cash on Delivery,Delivered
+38,2025-07-13,1054,Kristin Woods,Books,Fiction Novel,1,64.07,0.05,60.87,Mitchellfort,Guinea,Debit Card,Delivered
+39,2024-11-09,1074,Michelle Hernandez,Books,Biography,2,186.03,0.19,301.37,Edwardville,Puerto Rico,PayPal,Pending
+40,2024-08-28,1092,Charles Greene,Home & Kitchen,Microwave,5,426.2,0.03,2067.07,South Lisastad,Ukraine,Debit Card,Delivered
+41,2025-02-10,1044,Molly Nguyen,Sports,Football,1,76.18,0.15,64.75,Ashleybury,Hong Kong,Credit Card,Cancelled
+42,2024-08-25,1067,Kenneth Hicks,Sports,Dumbbells,2,288.65,0.08,531.12,Nicholaschester,Grenada,PayPal,Delivered
+43,2025-06-13,1077,Jason Adams,Clothing,Jacket,2,446.18,0.18,731.74,Wilcoxland,Eritrea,Debit Card,Pending
+44,2025-04-16,1053,Mr. Brent Smith MD,Electronics,Smartwatch,1,145.21,0.19,117.62,East Dawn,Mauritania,Debit Card,Delivered
+45,2025-04-22,1030,Eric Willis,Home & Kitchen,Mixer,3,129.16,0.28,278.99,Bowmanview,Nepal,Debit Card,Delivered
+46,2024-09-19,1047,Nancy Arias,Home & Kitchen,Mixer,3,430.97,0.01,1279.98,West Erinstad,Paraguay,Credit Card,Pending
+47,2025-07-31,1098,Cynthia Ritter,Electronics,Smartwatch,2,429.66,0.05,816.35,Port Johntown,Ireland,Cash on Delivery,Pending
+48,2025-06-06,1060,Shannon Green,Electronics,Camera,5,444.29,0.06,2088.16,West Micheleton,Puerto Rico,Debit Card,Delivered
+49,2024-10-13,1016,Marissa Knight,Clothing,Dress,5,363.86,0.19,1473.63,Michelleton,Spain,Debit Card,Cancelled
+50,2024-08-08,1002,Andrew Hardin,Electronics,Smartwatch,3,310.4,0.05,884.64,New Garrettburgh,Venezuela,Credit Card,Pending
+51,2024-12-15,1069,Kimberly Johnson,Home & Kitchen,Mixer,5,121.74,0.07,566.09,Port Theresaview,Kuwait,PayPal,Delivered
+52,2024-12-07,1084,Michael Hansen,Beauty,Perfume,2,155.1,0.23,238.85,South Johnnyside,Western Sahara,Debit Card,Delivered
+53,2025-04-30,1036,Angela Marshall,Books,Fiction Novel,4,436.25,0.27,1273.85,East Michaelville,Saint Martin,Debit Card,Cancelled
+54,2025-03-03,1099,Brandon Patton,Electronics,Headphones,4,21.35,0.02,83.69,West Joseph,Marshall Islands,Credit Card,Pending
+55,2024-09-24,1009,Rebecca Love,Home & Kitchen,Mixer,4,203.94,0.28,587.35,East Taylormouth,Turkey,PayPal,Delivered
+56,2025-04-15,1054,Joseph Wood,Clothing,Shoes,4,96.21,0.23,296.33,Port Andrew,Indonesia,Cash on Delivery,Returned
+57,2025-07-25,1017,Benjamin Sexton,Books,Science Book,4,380.45,0.23,1171.79,Clarkfurt,Maldives,PayPal,Delivered
+58,2025-01-18,1088,Ashley Dodson,Home & Kitchen,Vacuum Cleaner,1,293.0,0.11,260.77,Gibsontown,Morocco,PayPal,Pending
+59,2024-08-10,1003,Melinda Nguyen,Home & Kitchen,Mixer,3,454.7,0.21,1077.64,Sanchezside,Cayman Islands,PayPal,Returned
+60,2025-04-13,1095,Jessica Medina,Electronics,Headphones,2,446.79,0.14,768.48,Duncanfort,Syrian Arab Republic,PayPal,Pending
+61,2024-10-30,1022,Timothy Morrow,Clothing,Jeans,1,402.85,0.23,310.19,Hutchinsonbury,Hong Kong,PayPal,Delivered
+62,2024-12-04,1087,Jennifer Andrews,Beauty,Perfume,2,362.89,0.06,682.23,Lake Gregory,Ecuador,Cash on Delivery,Delivered
+63,2025-05-03,1089,Christopher Griffin,Electronics,Headphones,3,30.34,0.08,83.74,West Markton,Russian Federation,PayPal,Cancelled
+64,2024-12-08,1037,James Waller,Home & Kitchen,Mixer,4,133.23,0.3,373.04,South Evelynshire,Iraq,Debit Card,Returned
+65,2025-06-07,1080,Kathryn Garrett,Electronics,Headphones,2,137.39,0.02,269.28,South Andrewville,Austria,Debit Card,Delivered
+66,2025-05-13,1024,Kimberly Martin,Sports,Cricket Bat,2,69.75,0.15,118.58,Piercetown,United States of America,Debit Card,Pending
+67,2024-08-19,1085,Derek Castro,Clothing,T-Shirt,3,53.55,0.13,139.77,Port Ambertown,United Kingdom,Credit Card,Delivered
+68,2024-08-08,1019,Gregory Saunders,Home & Kitchen,Toaster,4,130.63,0.08,480.72,Ramirezside,Timor-Leste,PayPal,Returned
+69,2025-04-04,1056,Amanda Clark,Books,Fiction Novel,1,21.18,0.04,20.33,West Jontown,Svalbard & Jan Mayen Islands,PayPal,Cancelled
+70,2024-09-10,1076,Michael Simmons,Clothing,Jeans,1,75.01,0.11,66.76,South Elizabethmouth,Cyprus,PayPal,Cancelled
+71,2025-01-31,1047,Christian Blair,Electronics,Smartwatch,3,99.74,0.19,242.37,Millerside,Netherlands Antilles,Credit Card,Delivered
+72,2025-03-06,1078,Jessica Snow,Clothing,Shoes,2,109.16,0.1,196.49,West Kristybury,Serbia,Cash on Delivery,Cancelled
+73,2025-03-03,1068,Marie Trujillo,Home & Kitchen,Vacuum Cleaner,1,311.56,0.25,233.67,Walterland,Comoros,PayPal,Cancelled
+74,2024-08-29,1032,Victoria Miller,Clothing,Jeans,2,426.9,0.06,802.57,Tiffanyhaven,Syrian Arab Republic,Debit Card,Pending
+75,2025-07-05,1005,Kimberly Anderson,Beauty,Shampoo,5,12.99,0.19,52.61,Hughesburgh,Hong Kong,PayPal,Delivered
+76,2025-01-15,1074,Robert Villanueva,Sports,Football,3,305.34,0.07,851.9,Aaronland,Saint Kitts and Nevis,Cash on Delivery,Returned
+77,2025-04-04,1032,Beverly Wright,Electronics,Smartwatch,4,406.54,0.17,1349.71,Johnview,Netherlands Antilles,PayPal,Cancelled
+78,2025-04-01,1012,Erika Costa,Sports,Dumbbells,2,285.42,0.26,422.42,Woodardhaven,Dominican Republic,PayPal,Returned
+79,2024-10-17,1068,Richard Watkins,Beauty,Lipstick,4,267.53,0.17,888.2,East Mark,Bangladesh,Cash on Delivery,Cancelled
+80,2025-04-09,1027,Charles Hill,Sports,Dumbbells,1,175.25,0.05,166.49,Mosesberg,Italy,Credit Card,Returned
+81,2024-08-27,1065,Sherri Cabrera,Sports,Football,1,216.55,0.16,181.9,Woodburgh,Montserrat,Credit Card,Delivered
+82,2024-11-07,1077,Samantha Fuentes,Clothing,Dress,2,253.34,0.26,374.94,New Sarahport,Ireland,Cash on Delivery,Returned
+83,2025-02-26,1032,Rebecca Thomas,Sports,Cricket Bat,5,127.37,0.11,566.8,Livingstonton,Malaysia,Debit Card,Returned
+84,2025-01-01,1059,Glenda Gill,Clothing,Jacket,2,41.5,0.15,70.55,Port Carlosborough,Vietnam,PayPal,Cancelled
+85,2024-10-15,1082,Bradley Carter,Clothing,T-Shirt,4,437.92,0.08,1611.55,South Michaelshire,Western Sahara,PayPal,Cancelled
+86,2025-03-27,1061,Thomas Powell,Books,Biography,2,442.66,0.08,814.49,South Sarah,Morocco,Cash on Delivery,Pending
+87,2025-04-03,1068,Jason Moore,Books,Science Book,4,313.96,0.22,979.56,Michaelport,Cameroon,Credit Card,Pending
+88,2025-04-15,1032,Amanda Crawford,Books,Science Book,2,392.95,0.16,660.16,East Christineburgh,Macao,Credit Card,Returned
+89,2025-06-01,1086,Andre Rose,Beauty,Lipstick,5,274.68,0.06,1291.0,Jenniferland,Antigua and Barbuda,PayPal,Pending
+90,2024-09-15,1040,Judy Howard,Clothing,Shoes,1,305.93,0.09,278.4,New Christopher,Zimbabwe,PayPal,Pending
+91,2025-05-10,1031,Zachary Rose,Electronics,Camera,3,111.97,0.3,235.14,Daughertyview,Slovenia,Cash on Delivery,Delivered
+92,2024-09-30,1017,Charles Martinez,Electronics,Camera,5,460.1,0.25,1725.38,New Marcus,Qatar,Debit Card,Pending
+93,2025-03-01,1089,Brenda Stephenson,Home & Kitchen,Mixer,4,185.76,0.09,676.17,Jacobbury,Jamaica,Cash on Delivery,Delivered
+94,2025-06-16,1034,Gregory Lambert,Beauty,Shampoo,4,314.35,0.06,1181.96,New Sydneymouth,Palau,PayPal,Delivered
+95,2025-02-28,1001,Deborah Hobbs,Beauty,Face Cream,4,69.5,0.22,216.84,West Trevor,Ukraine,Cash on Delivery,Returned
+96,2025-02-07,1011,Kathleen Jackson,Beauty,Lipstick,4,210.05,0.11,747.78,Williamsonville,Zambia,Credit Card,Returned
+97,2025-01-11,1031,Mr. Troy White,Books,Science Book,3,476.64,0.11,1272.63,Port Mikeville,Libyan Arab Jamahiriya,Credit Card,Pending
+98,2025-06-27,1086,Derek Peterson,Books,Fiction Novel,2,99.14,0.22,154.66,East Linda,Palestinian Territory,Debit Card,Pending
+99,2024-12-26,1036,Cody Anderson,Electronics,Camera,3,294.23,0.1,794.42,New Sara,Bermuda,Cash on Delivery,Pending
+100,2024-08-09,1006,Mark Castillo,Home & Kitchen,Vacuum Cleaner,2,23.25,0.22,36.27,North Dwayne,Dominican Republic,Debit Card,Delivered
+101,2025-05-10,1019,Kayla Campbell,Electronics,Camera,3,320.16,0.1,864.43,Glennhaven,United States Minor Outlying Islands,PayPal,Pending
+102,2024-11-13,1073,Nathan Clark,Clothing,Shoes,5,330.98,0.29,1174.98,Robertshire,United Kingdom,PayPal,Pending
+103,2025-04-09,1038,Tina King,Sports,Tennis Racket,3,447.74,0.1,1208.9,Batesville,Kuwait,Credit Card,Pending
+104,2024-12-03,1052,Christine Brown,Books,Biography,1,384.18,0.28,276.61,Cynthiatown,Portugal,Debit Card,Pending
+105,2024-10-01,1005,Denise Wilson,Beauty,Shampoo,2,126.15,0.26,186.7,East Charlesville,Denmark,Credit Card,Pending
+106,2024-08-12,1067,Christian Graves,Books,Biography,1,111.89,0.14,96.23,West Rickyview,Egypt,PayPal,Cancelled
+107,2025-02-12,1061,Mark Valenzuela,Home & Kitchen,Mixer,5,103.66,0.07,482.02,Masseystad,Tokelau,Cash on Delivery,Delivered
+108,2024-08-15,1075,Mark May,Clothing,Jeans,1,318.79,0.29,226.34,Port Vanessa,Morocco,Cash on Delivery,Returned
+109,2025-07-12,1035,Bryan Young,Home & Kitchen,Toaster,4,235.22,0.28,677.43,East Brittney,Kiribati,Credit Card,Delivered
+110,2025-05-23,1021,Kyle Ferguson,Home & Kitchen,Toaster,2,89.11,0.1,160.4,New Gary,Netherlands,PayPal,Pending
+111,2025-08-06,1083,Jillian Parker,Books,Science Book,2,81.13,0.28,116.83,South Danny,Tanzania,PayPal,Delivered
+112,2025-01-27,1073,Shelia Bates,Clothing,T-Shirt,5,421.63,0.05,2002.74,West Danielle,Togo,PayPal,Pending
+113,2024-09-15,1088,Todd Jackson,Beauty,Lipstick,3,159.41,0.04,459.1,Port Katiemouth,Chad,Cash on Delivery,Pending
+114,2025-02-06,1088,Frank Castillo,Books,History Book,4,409.77,0.21,1294.87,East Richard,Gambia,Credit Card,Cancelled
+115,2025-02-01,1008,Jeremy Baldwin,Beauty,Foundation,2,204.65,0.22,319.25,Hubbardville,Cyprus,Credit Card,Pending
+116,2024-08-30,1014,Maureen Duarte,Home & Kitchen,Toaster,3,130.25,0.05,371.21,North Josephland,Marshall Islands,Credit Card,Pending
+117,2025-07-17,1026,Melissa Trevino,Electronics,Camera,2,48.8,0.12,85.89,Wernerland,Czech Republic,Credit Card,Pending
+118,2025-01-18,1064,Sandy Nelson,Electronics,Smartwatch,4,58.94,0.04,226.33,Kevinland,Christmas Island,Cash on Delivery,Cancelled
+119,2025-01-25,1016,Mary Gibson,Sports,Football,5,64.45,0.18,264.25,Lake Natasha,Netherlands Antilles,Debit Card,Cancelled
+120,2025-06-13,1015,Charlene Cook,Electronics,Camera,5,42.93,0.27,156.69,West Edward,Bulgaria,PayPal,Cancelled
+121,2025-04-08,1000,Christina Blackwell,Clothing,Shoes,2,226.43,0.1,407.57,Joanneborough,British Virgin Islands,Credit Card,Delivered
+122,2024-11-11,1092,Paula Perez,Sports,Yoga Mat,4,81.27,0.25,243.81,South Stephen,Netherlands Antilles,Debit Card,Pending
+123,2025-01-23,1025,Jordan Myers,Books,Cookbook,1,480.08,0.28,345.66,Lucasbury,Comoros,Cash on Delivery,Cancelled
+124,2025-06-14,1064,Gerald Davis,Electronics,Smartphone,5,160.92,0.21,635.63,East Tommy,Peru,Cash on Delivery,Returned
+125,2024-10-14,1014,Andrew Lewis,Beauty,Shampoo,5,104.29,0.29,370.23,East Katrinaland,Oman,Cash on Delivery,Pending
+126,2024-08-22,1013,Daniel James,Beauty,Foundation,4,82.33,0.1,296.39,Lake Pamela,Bahamas,Credit Card,Cancelled
+127,2025-07-13,1027,Jenna Brown,Beauty,Lipstick,4,303.57,0.24,922.85,Jacobsville,Kenya,PayPal,Delivered
+128,2024-11-01,1003,Richard Burton,Clothing,T-Shirt,2,137.25,0.1,247.05,New Daniellefurt,Netherlands,Credit Card,Pending
+129,2024-10-10,1040,Beth Davis,Sports,Tennis Racket,5,280.58,0.18,1150.38,South Juan,Sweden,Credit Card,Cancelled
+130,2025-07-08,1044,Kenneth Flores,Home & Kitchen,Microwave,1,15.85,0.11,14.11,Padillastad,Uzbekistan,PayPal,Delivered
+131,2025-01-15,1014,Angela Martinez,Clothing,T-Shirt,1,127.82,0.24,97.14,Jonestown,Latvia,Credit Card,Pending
+132,2025-01-25,1068,Laura Medina,Beauty,Foundation,5,74.54,0.24,283.25,Hannahchester,Papua New Guinea,Debit Card,Delivered
+133,2025-06-03,1097,Travis Ramos,Sports,Cricket Bat,1,13.68,0.2,10.94,Watsonbury,British Virgin Islands,PayPal,Cancelled
+134,2025-02-15,1022,Tina Davidson,Clothing,Jeans,4,314.81,0.13,1095.54,Staceyport,Vietnam,PayPal,Pending
+135,2024-11-20,1063,Dale Graham,Electronics,Laptop,5,81.55,0.05,387.36,Wilsonhaven,Macedonia,Credit Card,Pending
+136,2025-04-24,1009,Valerie Ramos,Clothing,T-Shirt,5,205.52,0.21,811.8,North Julian,Zimbabwe,Credit Card,Returned
+137,2024-12-06,1083,Jacob Baker Jr.,Clothing,Jacket,5,178.74,0.1,804.33,North Tanya,Iran,Credit Card,Returned
+138,2024-12-21,1033,Erin Hughes,Home & Kitchen,Toaster,1,277.3,0.04,266.21,Port Danielbury,Argentina,PayPal,Pending
+139,2025-04-07,1084,Bianca Castro,Sports,Cricket Bat,3,344.18,0.1,929.29,West Natashatown,Sri Lanka,Cash on Delivery,Delivered
+140,2024-11-05,1057,Miguel Scott,Home & Kitchen,Microwave,3,159.81,0.19,388.34,East Lisaton,Eritrea,Cash on Delivery,Returned
+141,2025-04-17,1018,Abigail Buchanan DVM,Clothing,T-Shirt,3,119.11,0.07,332.32,Clarkborough,Antarctica (the territory South of 60 deg S),PayPal,Cancelled
+142,2025-05-23,1092,Tanya Wood,Clothing,Jeans,5,350.76,0.03,1701.19,Port Scott,Moldova,PayPal,Returned
+143,2025-01-19,1022,Rebecca Carr,Books,Fiction Novel,2,405.25,0.16,680.82,New Paulaburgh,Faroe Islands,PayPal,Returned
+144,2025-04-20,1019,Timothy Skinner,Clothing,Jacket,5,454.69,0.02,2227.98,Lake Matthewton,Norfolk Island,PayPal,Cancelled
+145,2024-09-11,1084,Robert Gates,Electronics,Headphones,4,449.45,0.04,1725.89,South Andrewview,Norway,Debit Card,Cancelled
+146,2024-11-16,1018,Pamela Edwards,Clothing,Jeans,3,303.28,0.2,727.87,Carpenterside,Falkland Islands (Malvinas),Credit Card,Delivered
+147,2025-02-25,1004,Dillon Hughes,Electronics,Camera,1,75.32,0.26,55.74,East Allison,Czech Republic,Credit Card,Pending
+148,2025-05-28,1091,Stephen Walker,Sports,Dumbbells,5,221.09,0.01,1094.4,Jacksonside,Iraq,Cash on Delivery,Delivered
+149,2025-05-18,1053,Sherry Green,Clothing,Dress,2,335.49,0.23,516.65,Gonzalezbury,Djibouti,Debit Card,Returned
+150,2025-04-29,1077,Charles James,Sports,Football,3,157.94,0.11,421.7,West Michaelport,Malawi,Debit Card,Delivered
+151,2024-10-02,1048,Lauren Gibson,Beauty,Shampoo,1,285.69,0.11,254.26,Arthurside,Denmark,PayPal,Delivered
+152,2025-05-20,1036,Desiree Ray,Electronics,Smartwatch,4,225.0,0.29,639.0,Donnatown,Guinea-Bissau,Debit Card,Pending
+153,2024-08-16,1018,Adrian Martin,Clothing,Jacket,4,343.47,0.09,1250.23,North Jeremyhaven,Dominican Republic,Debit Card,Delivered
+154,2025-06-12,1029,Dr. Tony Lee,Beauty,Foundation,4,27.12,0.02,106.31,Gomezchester,Serbia,Cash on Delivery,Returned
+155,2024-11-05,1010,Amanda Jordan,Books,History Book,3,236.63,0.21,560.81,Biancamouth,Rwanda,PayPal,Returned
+156,2024-10-30,1055,Savannah Jones,Books,Cookbook,1,267.52,0.24,203.32,East Pamelashire,Antigua and Barbuda,Credit Card,Cancelled
+157,2024-10-13,1071,Alejandro Newman,Clothing,Dress,3,47.05,0.09,128.45,Lake Jeffreyberg,Swaziland,Cash on Delivery,Pending
+158,2024-08-28,1038,Jordan Baker,Sports,Yoga Mat,4,134.15,0.02,525.87,South Rebecca,Malawi,PayPal,Cancelled
+159,2025-06-09,1009,Terrence Meadows,Electronics,Smartwatch,5,290.36,0.18,1190.48,Courtneyfort,Saint Martin,Credit Card,Delivered
+160,2025-03-14,1047,Amy Smith,Electronics,Smartphone,5,389.47,0.01,1927.88,Lake Janicefort,Kenya,Credit Card,Returned
+161,2024-10-30,1006,Kevin Ayala,Books,Science Book,5,96.85,0.17,401.93,North Amanda,Bahamas,Debit Card,Delivered
+162,2025-01-17,1024,Brittany Preston,Books,History Book,3,434.61,0.29,925.72,Samanthaberg,Seychelles,Debit Card,Cancelled
+163,2025-04-24,1026,Wendy Gonzalez,Sports,Cricket Bat,4,439.29,0.16,1476.01,Kevinborough,Mauritius,Credit Card,Delivered
+164,2024-12-05,1013,William Walters,Home & Kitchen,Mixer,5,231.44,0.09,1053.05,Port Erin,Saint Lucia,Debit Card,Returned
+165,2025-06-10,1019,David Schwartz,Beauty,Perfume,4,60.51,0.25,181.53,West Matthewland,Dominica,Credit Card,Cancelled
+166,2024-11-21,1046,Faith Nelson,Clothing,Jacket,5,480.93,0.06,2260.37,Wilsonville,Costa Rica,Credit Card,Pending
+167,2025-02-19,1068,Jeffrey Johnson,Electronics,Smartphone,2,308.44,0.03,598.37,Lake Mariatown,Serbia,Debit Card,Delivered
+168,2024-08-09,1082,William Spencer,Clothing,T-Shirt,3,309.96,0.1,836.89,Melanieside,Bosnia and Herzegovina,PayPal,Pending
+169,2025-04-10,1018,David Brown,Home & Kitchen,Vacuum Cleaner,3,432.79,0.05,1233.45,Thomasville,Sudan,Credit Card,Pending
+170,2025-02-25,1087,Kenneth Harmon,Home & Kitchen,Toaster,2,224.4,0.11,399.43,East Robert,Tuvalu,Credit Card,Cancelled
+171,2024-08-14,1004,Sierra Garcia,Beauty,Shampoo,4,139.5,0.02,546.84,Martinfort,Russian Federation,PayPal,Cancelled
+172,2025-04-28,1020,Aaron Smith,Books,Science Book,4,425.93,0.29,1209.64,West Jay,Mozambique,Credit Card,Cancelled
+173,2024-12-15,1082,Gregory Humphrey,Books,History Book,4,123.29,0.03,478.37,Alejandromouth,San Marino,Cash on Delivery,Delivered
+174,2025-04-26,1076,Jessica Martin,Electronics,Camera,5,439.77,0.15,1869.02,Port Erin,Isle of Man,Cash on Delivery,Delivered
+175,2024-12-10,1077,Russell Jenkins,Sports,Tennis Racket,3,366.2,0.27,801.98,New Samantha,Taiwan,Cash on Delivery,Returned
+176,2025-05-08,1005,Joel Hunter,Electronics,Smartphone,5,447.87,0.04,2149.78,Isaacbury,Saint Pierre and Miquelon,PayPal,Cancelled
+177,2025-07-05,1039,Danielle Rogers,Electronics,Smartphone,5,417.13,0.05,1981.37,East Mackenzieborough,Cook Islands,Debit Card,Delivered
+178,2025-06-18,1087,Robert Marshall,Electronics,Laptop,2,482.5,0.16,810.6,Karenmouth,Martinique,PayPal,Returned
+179,2024-12-01,1041,Brandon Huang,Beauty,Face Cream,1,50.02,0.26,37.01,West Elizabeth,Cocos (Keeling) Islands,Credit Card,Returned
+180,2024-09-08,1010,Melissa Ashley,Beauty,Lipstick,5,302.38,0.03,1466.54,Shannonstad,Taiwan,Credit Card,Cancelled
+181,2024-09-21,1041,Thomas Hobbs,Electronics,Smartphone,5,207.26,0.14,891.22,New Georgehaven,Guatemala,Cash on Delivery,Pending
+182,2025-05-14,1033,Michael Berry,Beauty,Perfume,3,129.1,0.01,383.43,Caitlinfurt,Papua New Guinea,Debit Card,Returned
+183,2024-11-05,1091,John Martinez,Beauty,Foundation,1,108.3,0.22,84.47,East Jasonfurt,Singapore,Credit Card,Returned
+184,2025-08-04,1096,Kimberly Russell,Home & Kitchen,Toaster,1,438.35,0.13,381.36,Lake Dawn,Tanzania,Cash on Delivery,Cancelled
+185,2024-12-27,1003,Kimberly Washington,Sports,Football,3,411.76,0.02,1210.57,Brianberg,Ghana,Credit Card,Cancelled
+186,2024-12-30,1061,Kristin Guzman,Home & Kitchen,Mixer,5,430.61,0.0,2153.05,Mcphersonhaven,United States of America,Cash on Delivery,Cancelled
+187,2024-08-23,1021,Anthony Wagner,Clothing,Jeans,4,164.07,0.11,584.09,Moralesbury,Reunion,Debit Card,Returned
+188,2025-04-14,1054,Michael Cross,Books,Fiction Novel,5,11.0,0.21,43.45,Stewartland,Jamaica,Cash on Delivery,Returned
+189,2024-11-01,1029,Dr. Adam Nelson,Home & Kitchen,Microwave,4,129.32,0.2,413.82,Taylortown,British Indian Ocean Territory (Chagos Archipelago),Debit Card,Delivered
+190,2024-10-14,1048,Michael Rush,Books,Science Book,3,301.62,0.23,696.74,Robinsonborough,Timor-Leste,Cash on Delivery,Cancelled
+191,2025-01-24,1093,Patricia Mendez,Clothing,Dress,1,23.18,0.13,20.17,East Douglasborough,French Southern Territories,Cash on Delivery,Delivered
+192,2024-08-16,1080,Elizabeth Hodges,Sports,Yoga Mat,5,209.38,0.19,847.99,Davisshire,Andorra,Credit Card,Delivered
+193,2025-06-18,1010,David Hall,Sports,Yoga Mat,1,294.67,0.14,253.42,Sarahmouth,French Polynesia,PayPal,Pending
+194,2024-10-14,1085,William Morton,Books,Cookbook,1,64.6,0.29,45.87,Gregoryfort,Liechtenstein,PayPal,Returned
+195,2025-05-17,1095,Paul Wilson,Sports,Cricket Bat,1,350.74,0.25,263.06,Rasmussenton,Portugal,Debit Card,Returned
+196,2024-10-09,1011,Desiree Lin,Books,Cookbook,5,199.78,0.1,899.01,Grantbury,Tuvalu,PayPal,Cancelled
+197,2025-06-28,1060,Jason Knight,Beauty,Face Cream,2,451.58,0.16,758.65,Ellisontown,Saint Kitts and Nevis,Cash on Delivery,Returned
+198,2024-11-13,1013,Jerry Singleton,Sports,Tennis Racket,1,303.98,0.26,224.95,Marshallton,Kenya,Cash on Delivery,Cancelled
+199,2024-11-25,1004,Adam Terrell,Books,Biography,1,454.16,0.23,349.7,Danielleborough,Zimbabwe,Cash on Delivery,Delivered
+200,2025-01-06,1058,Matthew Ball,Sports,Dumbbells,4,125.15,0.28,360.43,Dannyside,Slovakia (Slovak Republic),Credit Card,Cancelled
